@@ -1,0 +1,16 @@
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\ToastMessage.dll
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\ToastMessage.pdb
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Core.dll
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Platform.dll
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Core.pdb
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Core.xml
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\obj\Debug\ToastMessage.csproj.CoreCompileInputs.cache
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\obj\Debug\ToastMessage.MainPage.xaml.g.cs
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\obj\Debug\ToastMessage.App.xaml.g.cs
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\obj\Debug\ToastMessage.dll
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\obj\Debug\ToastMessage.pdb
+D:\XAMProjects\ToastMessage\ToastMessage\ToastMessage\obj\Debug\ToastMessage.csprojResolveAssemblyReference.cache
